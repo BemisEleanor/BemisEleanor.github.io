@@ -1,0 +1,47 @@
+body { 
+	background-image: url("../purple.jpg");
+	background-repeat: repeat-x;
+ }
+
+h1 {
+	color: black;
+	font-size: 45px;
+	text-align: center;
+}
+p,.navbar, {
+	color:black;
+	font-size:20px;
+	text-align:center;
+	margin: 10px
+	margin-right:1cm;
+	margin-left:1cm;
+		
+}
+.tabs{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	text-align: center;
+	font-size: 20px
+}
+
+.tabs li {
+	display: inline;
+	margin: 0px 10px;
+}
+.sectheading{
+	color:black;
+	font-size:17px;
+	padding: 2px;
+
+}
+img{
+	height:100px; 
+	width:100px;
+	max-width:300px;
+	max-height:300px;
+}
+p,.navbar,.tabs,.sectheading{
+	border-style: solid;
+    border-width: 2px;
+}
