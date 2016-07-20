@@ -45,3 +45,12 @@ p,.navbar,.tabs,.sectheading{
 	border-style: solid;
     border-width: 2px;
 }
+
+.icon {
+	width: 50px;
+	height: 50px;
+}
+
+a:-webkit-any-link {
+	text-decoration: none;
+}
