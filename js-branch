@@ -1,0 +1,3 @@
+$('.resizableImage').hover(makeBigger, returnToOriginalSize);
+
+ 
